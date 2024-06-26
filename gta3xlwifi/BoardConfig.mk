@@ -1,10 +1,10 @@
-DEVICE_PATH := device/samsung/a40
+DEVICE_PATH := device/samsung/gta3xlwifi
 
 # Asserts
-TARGET_OTA_ASSERT_DEVICE := a40,a40dd
+TARGET_OTA_ASSERT_DEVICE := gta3xlwifi
 
 # Kernel
-TARGET_KERNEL_CONFIG := exynos7885-a40_defconfig
+TARGET_KERNEL_CONFIG := exynos7885-gta3xlwifi_defconfig
 
 # Display
 TARGET_SCREEN_DENSITY := 420
