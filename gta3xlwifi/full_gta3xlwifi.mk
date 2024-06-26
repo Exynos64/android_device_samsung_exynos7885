@@ -8,11 +8,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/samsung/a40/device.mk)
+$(call inherit-product, device/samsung/gta3xlwifi/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := a40
-PRODUCT_NAME := full_a40
-PRODUCT_MODEL := SM-A405F
+PRODUCT_DEVICE := gta3xlwifi
+PRODUCT_NAME := full_gta3xlwifi
+PRODUCT_MODEL := SM-T510
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
