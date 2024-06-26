@@ -8,7 +8,7 @@ $(call inherit-product, device/samsung/universal7885-common/universal7885-common
 
 $(call inherit-product, vendor/samsung/gta3xlwifi/gta3xlwifi-vendor.mk)
 
-$(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
+$(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 
 # USB
 PRODUCT_PACKAGES += \
