@@ -33,8 +33,7 @@
                 <string ...>M -5,0 L -5,10 L 5,10 L 5,0 Z @dp</string>
          @see https://www.w3.org/TR/SVG/paths.html#PathData
          -->
-   <string translatable="false" name="config_mainBuiltInDisplayCutout">M 0,0 H -67.42857142857143 V 30.85714285714286 H 67.42857142857143 V 0 H 0 Z @dp</string>
-   <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">@*android:string/config_mainBuiltInDisplayCutout</string>
+   <string translatable="false" name="config_mainBuiltInDisplayCutout"></string>
    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
    <bool name="config_supportDoubleTapWake">true</bool>
    <bool name="config_enableBurnInProtection">true</bool>
