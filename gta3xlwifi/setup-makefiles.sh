@@ -9,7 +9,7 @@
 set -e
 
 # Required!
-export DEVICE=a40
+export DEVICE=gta3xlwifi
 export DEVICE_COMMON=universal7885-common
 export VENDOR=samsung
 
