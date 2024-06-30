@@ -90,14 +90,6 @@
          <instance>default</instance>
       </interface>
    </hal>
-   <hal format="hidl" optional="true">
-      <name>android.hardware.wifi.offload</name>
-      <version>1.0</version>
-      <interface>
-         <name>IOffload</name>
-         <instance>default</instance>
-      </interface>
-   </hal>
    <kernel version="4.4.302" level="3">
     </kernel>
 </compatibility-matrix>
